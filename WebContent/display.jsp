@@ -9,6 +9,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Importando o CSS -->
+	<link rel="stylesheet" href="resources/css/default.css">
         <title>JSP Page pegando dados POST</title>
     </head>
     <body>
